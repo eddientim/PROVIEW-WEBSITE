@@ -1,3 +1,3 @@
 # PROVIEW-WEBSITE
 Web dev
-DEV/DEBUG branch currently devloping user login system
+DEV/DEBUG branch currently developing user login system
